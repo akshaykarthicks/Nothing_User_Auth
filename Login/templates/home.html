@@ -1,0 +1,8 @@
+<h1>Home</h1>
+<p> SIMPLE LOGIN WITH DJANGO AUTH </p>
+
+<form action="{% url 'logout' %}" method="post" style="display:inline;">
+    
+    {% csrf_token %}
+    <button type="submit" class="btn btn-link">Logout</button>
+</form>
