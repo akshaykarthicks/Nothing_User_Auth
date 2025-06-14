@@ -1,6 +1,11 @@
 # Django User Authentication System
 
 A  Nothing  os style robust user authentication system built with Django, featuring user registration, login, and secure session management. 
+# User Registration 
+![image](https://github.com/user-attachments/assets/0accb687-46ca-4b41-8718-f8a360e8a4fb)
+
+# Login page
+![image](https://github.com/user-attachments/assets/f3195c70-55de-4f52-a7a6-1fa41c38466e)
 
 ## Features
 
